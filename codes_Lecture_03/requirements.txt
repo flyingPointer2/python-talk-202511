@@ -1,0 +1,9 @@
+numpy
+scipy
+sympy
+matplotlib
+pandas
+openpyxl
+xlrd
+requests
+jupyter
